@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="slogan">This is the 2nd session of the App development</string>
+    <string name="welcomeText">Welcome to the Devcamp !</string>
+    <string name="home_welcome">WelCome To DevCamp</string>
+    <string name="toast">Toast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello This is a fragment, just like instagram in one activity we can have many other pages/layout
+    using fragments</string>
 </resources>

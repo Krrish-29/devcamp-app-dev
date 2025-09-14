@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/first"
+        android:icon="@drawable/groups"
+        android:title="Groups"
+        />
+    <item android:id="@+id/second"
+        android:icon="@drawable/groups"
+        android:title="Single"
+        />
+    <item android:id="@+id/third"
+        android:icon="@drawable/groups"
+        android:title="Devcamp"
+        />
+</menu>
